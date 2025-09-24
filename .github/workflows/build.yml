@@ -28,10 +28,10 @@ jobs:
           dotnet-version: 8.0.x
 
       - name: Restore dependencies
-        run: dotnet restore cs2-deleteweapons.csproj
+        run: dotnet restore src/cs2-deleteweapons.csproj
 
       - name: Publish plugin
-        run: dotnet publish cs2-deleteweapons.csproj -c Release -o ${{ env.BUILD_OUTPUT }}
+        run: dotnet publish src/cs2-deleteweapons.csproj -c Release -o ${{ env.BUILD_OUTPUT }}
 
       - name: Prepare package directories
         run: |
@@ -40,7 +40,7 @@ jobs:
 
       - name: Copy plugin assembly
         run: |
-          cp "${{ env.BUILD_OUTPUT }}/BetterWho.dll" "${{ env.PLUGIN_ROOT }}/${{ env.REPO_NAME }}/${{ env.REPO_NAME }}.dll"
+          cp "${{ env.BUILD_OUTPUT }}/cs2-deleteweapons.dll" "${{ env.PLUGIN_ROOT }}/${{ env.REPO_NAME }}/${{ env.REPO_NAME }}.dll"
 
       - name: Copy configuration files
         run: |
