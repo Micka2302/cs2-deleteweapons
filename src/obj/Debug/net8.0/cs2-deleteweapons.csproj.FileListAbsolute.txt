@@ -1,0 +1,13 @@
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\bin\Debug\net8.0\cs2-deleteweapons.deps.json
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\bin\Debug\net8.0\cs2-deleteweapons.dll
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\bin\Debug\net8.0\cs2-deleteweapons.pdb
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.csproj.AssemblyReference.cache
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.AssemblyInfoInputs.cache
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.AssemblyInfo.cs
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.csproj.CoreCompileInputs.cache
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.sourcelink.json
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.dll
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\refint\cs2-deleteweapons.dll
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\cs2-deleteweapons.pdb
+C:\Users\micka\Documents\GitHub\cs2-deleteweapons\src\obj\Debug\net8.0\ref\cs2-deleteweapons.dll
